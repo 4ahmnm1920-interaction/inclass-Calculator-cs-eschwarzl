@@ -14,7 +14,7 @@ public class Calculator : MonoBehaviour
 
     public float varA;
     public float varB;
-
+    public float varC;
 
 
     // Start is called before the first frame update
@@ -81,6 +81,24 @@ public class Calculator : MonoBehaviour
 
         Operation.text = "by";
         Result.text = varDiv.ToString();
+    }
+
+    public void PercentInput()
+    {
+        varA = float.Parse(ipfnumber1.text);
+        varB = float.Parse(ipfnumber2.text);
+
+        varC = PercentOutput(varA, varB);
+
+        Operation.text = "is Percentage of";
+        Result.text = varC.ToString() + "%";
+    }
+
+    private float PercentOutput(float varPerA,float varPerB)
+    {
+        float varPer = varPerB * 100 / varPerA;
+
+        return(varPer);
     }
 
 
