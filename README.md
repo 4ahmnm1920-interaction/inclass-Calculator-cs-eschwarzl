@@ -1,29 +1,19 @@
-# Unity2019114f1-2D-Template
+# Calculator
 
 ### Project description: 
-Introduction/Project summary 
+Created Calculater (funktions are Addition, Subtraction, Multiplication, Division and Percentage)
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
-Scripting Runtime Version: .NET 4.0
-
-### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
-
-### Visuals: 
-Screenshots (concept and experience), Video
-
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+Windows 10, Unity Version 2019.1.14f1, Visual Studio
+Scripting Runtime Version: .NET 4.x Equivalent
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Template
 
 ### Project state: 
-incl. progress in percent
-
-### Limitations: 
-
+Complete
+ 
 ### Lessons Learned: 
+None
 
-Copyright by you :)
+Copyright by us (Lyra and Me) :)
