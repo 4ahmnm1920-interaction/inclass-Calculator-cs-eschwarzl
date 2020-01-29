@@ -192,7 +192,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c39017fb4d53f5149b163defa70c74f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  condition: 1
+  condition: 0
+  Text: Hoi
+  Text2: Hoi
+  KleineZahl: 0
+  NewText: Zehn
 --- !u!4 &270593430
 Transform:
   m_ObjectHideFlags: 0
